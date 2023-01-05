@@ -21,8 +21,3 @@
 <div>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
 </div>
-
-
-### Current Status
-
-[![ddaisylee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddaisylee)](https://github.com/ddaisylee/github-readme-stats)
